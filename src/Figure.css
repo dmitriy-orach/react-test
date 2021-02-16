@@ -1,0 +1,17 @@
+.select_item_img{
+    width: 100%;
+    max-width: 150px;
+    height: auto;
+    display: block;
+    margin: 10px auto;
+}
+
+.btn{
+    min-width: 300px;
+    background: #13c40a;
+    font-size: 16px;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
